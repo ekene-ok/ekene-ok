@@ -1,6 +1,6 @@
 # Hi, I'm Ekene Okafor
 
-Revenue growth and strategy professional in B2B SaaS. I find where revenue is hiding in the data, test what actually moves it, and build the tools and automations that help teams act on it. Ivey Master of Management in Analytics, based in Toronto.
+Revenue growth, strategy and GTM operations professional in B2B SaaS. I find where revenue is hiding in the data, test what actually moves it, and build the tools and automations that help teams act on it. Ivey Master of Management in Analytics, based in Toronto.
 
 **Tools I use:** SQL (DuckDB), Python (pandas, scikit-learn, SimPy), R, Excel, Salesforce, Pendo, AI workflow automation
 
