@@ -17,6 +17,12 @@ Each project starts with a business question and ends with a recommendation, bac
 | [SaaS Cross-Sell Playbook](https://github.com/ekene-ok/saas-cross-sell-playbook) | Which existing customers should get which add-on? | No protection add-ons: 57% churn vs 5% with all four. A streaming upsell is worth 1.6x per customer won |
 | [Funnel and Attribution Audit](https://github.com/ekene-ok/funnel-attribution-audit) | Can leadership trust pipeline by channel? | Only 38% of pipeline was credited to the right channel; in-app messages drove $1.16M the dashboard showed as $0 |
 
+### GTM programs and operations
+
+| Project | Question | Finding |
+|---|---|---|
+| [GTM Launch Playbook](https://github.com/ekene-ok/gtm-launch-playbook) | How do you run a launch across self-serve and sales-led channels, and know if it worked? | Blended results met 3 of 4 targets, but sales-led missed all four: tying access to payment meant a 4.5-day median wait and about 43 lost activations |
+
 ### Strategy and operations
 
 | Project | Question | Finding |
