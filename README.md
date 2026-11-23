@@ -22,6 +22,7 @@ Each project starts with a business question and ends with a recommendation, bac
 | Project | Question | Finding |
 |---|---|---|
 | [GTM Launch Playbook](https://github.com/ekene-ok/gtm-launch-playbook) | How do you run a launch across self-serve and sales-led channels, and know if it worked? | Blended results met 3 of 4 targets, but sales-led missed all four: tying access to payment meant a 4.5-day median wait and about 43 lost activations |
+| [CRM Data Hygiene Audit](https://github.com/ekene-ok/crm-data-hygiene-audit) | Can sales and marketing trust what's in the CRM? | Most late MQLs never had an owner, and two thirds of the busiest self-serve teams had nobody in sales working them; 46% of open pipeline was stale |
 
 ### Strategy and operations
 
