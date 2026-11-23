@@ -12,6 +12,7 @@ Each project starts with a business question and ends with a recommendation, bac
 
 | Project | Question | Finding |
 |---|---|---|
+| [Marketing Workflows](https://github.com/ekene-ok/marketing-workflows) | How can a marketing team run AI workflows it can trust? | Reusable skills and agents for ads, landing pages, in-app messages and daily campaign checks, with code that catches invented numbers and off-brand copy |
 | [Campaign Uplift Targeting](https://github.com/ekene-ok/campaign-uplift-targeting) | Which customers should get which email? | The men's email drove 1.8x the extra spend; the women's email barely moves men-only buyers |
 | [SaaS Cross-Sell Playbook](https://github.com/ekene-ok/saas-cross-sell-playbook) | Which existing customers should get which add-on? | No protection add-ons: 57% churn vs 5% with all four. A streaming upsell is worth 1.6x per customer won |
 | [Funnel and Attribution Audit](https://github.com/ekene-ok/funnel-attribution-audit) | Can leadership trust pipeline by channel? | Only 38% of pipeline was credited to the right channel; in-app messages drove $1.16M the dashboard showed as $0 |
