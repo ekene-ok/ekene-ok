@@ -35,6 +35,8 @@ Project highlights (validated together: lightness band, chroma floor, 3:1 contra
 | Funnel Attribution Audit | #b35900 |
 | GTM Launch Playbook | #d1495b |
 | CRM Data Hygiene Audit | #00819e |
+| Marketing Workflows | #8a6a00 |
+| Customer Value Emails | #3d5a98 |
 
 ## Form
 
