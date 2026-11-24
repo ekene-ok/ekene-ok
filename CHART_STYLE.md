@@ -50,3 +50,24 @@ Project highlights (validated together: lightness band, chroma floor, 3:1 contra
 - Label values directly, selectively: the highlighted value and the comparisons that matter
 - Horizontal text only; commas in large numbers; round sensibly
 - Apps: the same palette and rules, with detail in hover rather than on the chart
+
+## Labels
+
+- Category labels are two to four words. Explanations go in the deck, not the label ("Monthly fiber, year 1", not "First-year month-to-month, fiber")
+- Value labels are the number and nothing else ("37%", "$611K", "+3.9 pts"). No brackets, no second figure, no "a year"
+- At most one annotation inside the plot, in muted grey, under ten words
+- Decks are one line. Units and definitions live there
+
+## Layout
+
+Every chart is built with the same functions in `brand_style.py`, so margins, type sizes and spacing match across projects:
+
+| Function | Use |
+|---|---|
+| `chart()` | Figure with fixed margins in inches, whatever its height |
+| `titles()`, `credit()`, `save()` | Headline and deck, source line, export |
+| `hbar()` | Ranked categories, with negatives handled |
+| `vbar()` | Ordered categories such as time buckets |
+| `dotrange()` | An estimate with its interval. Intervals are never drawn over bars |
+| `paired_hbar()` | Before and after for the same categories |
+| `line_axes()` | Line charts: baseline and light tick labels, no gridlines |
