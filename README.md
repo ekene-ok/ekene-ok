@@ -13,7 +13,7 @@ Each project starts with a business question and ends with a recommendation, bac
 | Project | Question | Finding |
 |---|---|---|
 | [Marketing Workflows](https://github.com/ekene-ok/marketing-workflows) | How can a marketing team run AI workflows it can trust? | Reusable skills and agents for ads, landing pages, in-app messages and daily campaign checks, with code that catches invented numbers and off-brand copy |
-| [Campaign Uplift Targeting](https://github.com/ekene-ok/campaign-uplift-targeting) | When is personalised targeting worth it? | For email, it isn't: one email to everyone gets almost all the lift. Targeting pays once a contact costs more than about $0.77. [Try the live app](https://ekene-uplift-targeting.streamlit.app/) |
+| [Campaign Uplift Targeting](https://github.com/ekene-ok/campaign-uplift-targeting) | When is personalised targeting worth it? | For email, it isn't: one email to everyone gets almost all the lift, and a model adds at most $76 per 1,000 customers at any contact cost. [Try the live app](https://ekene-uplift-targeting.streamlit.app/) |
 | [SaaS Cross-Sell Playbook](https://github.com/ekene-ok/saas-cross-sell-playbook) | Is cross-sell where the revenue is? | No: the best upsell is worth $12K a year, while first-year fiber customers, 16% of the base, take $611K a year with them when they churn |
 | [Funnel and Attribution Audit](https://github.com/ekene-ok/funnel-attribution-audit) | Can leadership trust pipeline by channel? | Only 38% of pipeline was credited to the right channel; in-app messages drove $1.16M the dashboard showed as $0 |
 
