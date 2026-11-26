@@ -41,7 +41,6 @@ Each project starts with a business question and ends with a recommendation, bac
 | [City Expansion Scorecard](https://github.com/ekene-ok/city-expansion-scorecard) | Where should a marketplace launch next, and how? | Five cities rank top 5 under any weighting; start with local sellers, which halve freight and delivery time, before building warehouses |
 | [Marketplace Supply Simulation](https://github.com/ekene-ok/marketplace-supply-simulation) | How many couriers does a new city need? | Shape couriers to demand (30% fewer hours than flat) and carry a 9% buffer, which holds service if demand runs 20% above forecast |
 
-Every chart follows one [chart style](CHART_STYLE.md): one message per chart, one highlight colour, direct labels.
 
 ## Contact
 
