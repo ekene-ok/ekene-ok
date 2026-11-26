@@ -36,6 +36,7 @@ Each project starts with a business question and ends with a recommendation, bac
 
 | Project | Question | Finding |
 |---|---|---|
+| [Pricing and Discount Analysis](https://github.com/ekene-ok/pricing-discount-analysis) | Where is our price leaking, and how should we package to fix it? | Discounts gave away 18% of list price without improving renewal; discount approvals, a quarter-end deal desk and a bundle are worth $3.9M to $7.3M a year |
 | [Business Review Agent](https://github.com/ekene-ok/business-review-agent) | Can an agent draft a weekly business review leaders can trust? | Catches every problem of 30% or more at 84% precision; every number in every draft is verified |
 | [Market Entry Investment Case](https://github.com/ekene-ok/market-entry-investment-case) | Should a delivery platform launch in Atlantic Canada? | Halifax only, and only with courier cost of $9 per order or less. [Try the live app](https://ekene-market-entry.streamlit.app/) |
 | [City Expansion Scorecard](https://github.com/ekene-ok/city-expansion-scorecard) | Where should a marketplace launch next, and how? | Five cities rank top 5 under any weighting; start with local sellers, which halve freight and delivery time, before building warehouses |
