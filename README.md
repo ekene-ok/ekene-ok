@@ -18,6 +18,13 @@ Each project starts with a business question and ends with a recommendation, bac
 | [SaaS Cross-Sell Playbook](https://github.com/ekene-ok/saas-cross-sell-playbook) | Is cross-sell where the revenue is? | No: the best upsell is worth $12K a year, while first-year fiber customers, 16% of the base, take $611K a year with them when they churn |
 | [Funnel and Attribution Audit](https://github.com/ekene-ok/funnel-attribution-audit) | Can leadership trust pipeline by channel? | Only 38% of pipeline was credited to the right channel; in-app messages drove $1.16M the dashboard showed as $0 |
 
+### Customer lifecycle and retention
+
+| Project | Question | Finding |
+|---|---|---|
+| [Trial Activation Milestone](https://github.com/ekene-ok/trial-activation-milestone) | Which free-trial action predicts paying, and how fast must it happen? | Sending a first invoice by day 3: those trials convert at about 40%, against 9% for trials that never invoice. A two-stage onboarding test confirms it before rollout |
+| [Customer Health Score](https://github.com/ekene-ok/customer-health-score) | Does our health score warn us about churn in time to act? | A two-tier score that works without usage data put 45% of churned ARR in the riskiest 20% of accounts, up from 26% for a usage-only score |
+
 ### GTM programs and operations
 
 | Project | Question | Finding |
