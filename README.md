@@ -1,47 +1,53 @@
 # Hi, I'm Ekene Okafor
 
-Revenue growth, strategy and GTM operations professional in B2B SaaS. I find where revenue is hiding in the data, test what actually moves it, and build the tools and automations that help teams act on it. Ivey Master of Management in Analytics, based in Toronto.
+I work in revenue growth and strategy at B2B software companies. I find where revenue is being lost or missed, test what actually changes it, and build the tools that help teams act on it. I have a Master of Management in Analytics from Ivey Business School and I'm based in Toronto.
 
-**Tools I use:** SQL (DuckDB), Python (pandas, scikit-learn, SimPy), R, Excel, Salesforce, Pendo, AI workflow automation
+## How to read my projects
+
+Each project answers one business question a leader might ask. Every project page starts with a plain-language summary: the question, what I found, a chart or two, and what I'd do. The technical detail and code sit in a section you can open at the bottom.
+
+Most projects use fictional companies and made-up data, so no real customer or employer information is shared. A few use real public datasets, and each project says which.
 
 ## Projects
 
-Each project starts with a business question and ends with a recommendation, backed by reproducible code and charts.
-
 ### Marketing and growth
 
-| Project | Question | Finding |
+| Project | The question | What I found |
 |---|---|---|
-| [Customer Value Emails](https://github.com/ekene-ok/customer-value-emails) | Do customer value emails keep customers, and who should get them? | They lift renewal 3.9 points, a third of what open rates suggest, and help most the accounts that rarely open (about $894K a year) |
-| [Marketing Workflows](https://github.com/ekene-ok/marketing-workflows) | How can a marketing team run AI workflows it can trust? | Python checks caught 112 of 112 seeded rule breaks; testing them found invented claims slipping through, now fixed. Claims still need a person |
-| [Campaign Uplift Targeting](https://github.com/ekene-ok/campaign-uplift-targeting) | When is personalised targeting worth it? | For email, it isn't: one email to everyone gets almost all the lift, and a model adds at most $76 per 1,000 customers at any contact cost. [Try the live app](https://ekene-uplift-targeting.streamlit.app/) |
-| [SaaS Cross-Sell Playbook](https://github.com/ekene-ok/saas-cross-sell-playbook) | Is cross-sell where the revenue is? | No: the best upsell is worth $12K a year, while first-year fiber customers, 16% of the base, take $611K a year with them when they churn |
-| [Funnel and Attribution Audit](https://github.com/ekene-ok/funnel-attribution-audit) | Can leadership trust pipeline by channel? | Only 38% of pipeline was credited to the right channel; in-app messages drove $1.16M the dashboard showed as $0 |
+| [Customer Value Emails](https://github.com/ekene-ok/customer-value-emails) | Do "here's your value" emails keep customers? | Yes, but a third as much as open rates suggest. They help most the customers who rarely open them, worth about $894K a year |
+| [Marketing Workflows](https://github.com/ekene-ok/marketing-workflows) | How can a marketing team use AI writing tools it can trust? | Automatic checks caught all 112 planted rule breaks. Claims still need a person to review them |
+| [Campaign Uplift Targeting](https://github.com/ekene-ok/campaign-uplift-targeting) | Is sending each customer a personalised email worth it? | Not for email: one good email to everyone gets almost all the benefit. [Try the live app](https://ekene-uplift-targeting.streamlit.app/) |
+| [SaaS Cross-Sell Playbook](https://github.com/ekene-ok/saas-cross-sell-playbook) | Is selling add-ons where the revenue is? | No. Add-ons are worth about $12K a year; keeping new fiber customers is worth $611K |
+| [Funnel and Attribution Audit](https://github.com/ekene-ok/funnel-attribution-audit) | Can leaders trust which marketing channels get credit? | Only 38% of sales opportunities were credited correctly; one channel worth $1.16M showed as $0 |
 
-### Customer lifecycle and retention
+### Keeping and growing customers
 
-| Project | Question | Finding |
+| Project | The question | What I found |
 |---|---|---|
-| [Trial Activation Milestone](https://github.com/ekene-ok/trial-activation-milestone) | Which free-trial action predicts paying, and how fast must it happen? | Sending a first invoice by day 3: those trials convert at about 40%, against 9% for trials that never invoice. A two-stage onboarding test confirms it before rollout |
-| [Customer Health Score](https://github.com/ekene-ok/customer-health-score) | Does our health score warn us about churn in time to act? | A two-tier score that works without usage data put 45% of churned ARR in the riskiest 20% of accounts, up from 26% for a usage-only score |
+| [Trial Activation Milestone](https://github.com/ekene-ok/trial-activation-milestone) | Which free-trial action best predicts paying, and how fast? | Sending a first invoice by day 3: those trials pay at about 40%, against 9% for trials that never do |
+| [Customer Health Score](https://github.com/ekene-ok/customer-health-score) | Does our health score warn us before customers leave? | A better score spots 45% of the revenue that later leaves, up from 26% |
 
-### GTM programs and operations
+### Launches and operations
 
-| Project | Question | Finding |
+| Project | The question | What I found |
 |---|---|---|
-| [GTM Launch Playbook](https://github.com/ekene-ok/gtm-launch-playbook) | How do you run a launch across self-serve and sales-led channels, and know if it worked? | Blended results met 3 of 4 targets, but sales-led missed all four: tying access to payment meant a 4.5-day median wait and about 43 lost activations |
-| [CRM Data Hygiene Audit](https://github.com/ekene-ok/crm-data-hygiene-audit) | Can sales and marketing trust what's in the CRM? | Most late MQLs never had an owner, and two thirds of the busiest self-serve teams had nobody in sales working them; 46% of open pipeline was stale |
+| [GTM Launch Playbook](https://github.com/ekene-ok/gtm-launch-playbook) | How do you run a product launch across teams, and know if it worked? | The launch hit 3 of 4 goals, but sales-led customers waited 4.5 days for access and missed all four |
+| [CRM Data Hygiene Audit](https://github.com/ekene-ok/crm-data-hygiene-audit) | Can sales and marketing trust their customer database? | Most missed leads were never assigned to anyone, and 46% of the sales forecast was stale |
 
-### Strategy and operations
+### Strategy and planning
 
-| Project | Question | Finding |
+| Project | The question | What I found |
 |---|---|---|
-| [Pricing and Discount Analysis](https://github.com/ekene-ok/pricing-discount-analysis) | Where is our price leaking, and how should we package to fix it? | Discounts gave away 18% of list price without improving renewal; discount approvals, a quarter-end deal desk and a bundle are worth $3.9M to $7.3M a year |
-| [Business Review Agent](https://github.com/ekene-ok/business-review-agent) | Can an agent draft a weekly business review leaders can trust? | Catches every problem of 30% or more at 84% precision; every number in every draft is verified |
-| [Market Entry Investment Case](https://github.com/ekene-ok/market-entry-investment-case) | Should a delivery platform launch in Atlantic Canada? | Halifax only, and only with courier cost of $9 per order or less. [Try the live app](https://ekene-market-entry.streamlit.app/) |
-| [City Expansion Scorecard](https://github.com/ekene-ok/city-expansion-scorecard) | Where should a marketplace launch next, and how? | Five cities rank top 5 under any weighting; start with local sellers, which halve freight and delivery time, before building warehouses |
-| [Marketplace Supply Simulation](https://github.com/ekene-ok/marketplace-supply-simulation) | How many couriers does a new city need? | Shape couriers to demand (30% fewer hours than flat) and carry a 9% buffer, which holds service if demand runs 20% above forecast |
+| [Pricing and Discount Analysis](https://github.com/ekene-ok/pricing-discount-analysis) | Where is our price leaking? | Discounts gave away 18% of list price without keeping customers longer; three fixes are worth $3.9M to $7.3M a year |
+| [Business Review Agent](https://github.com/ekene-ok/business-review-agent) | Can an AI assistant draft a weekly business review leaders can trust? | It caught every problem of 30% or more and never reported a number it couldn't verify |
+| [Market Entry Investment Case](https://github.com/ekene-ok/market-entry-investment-case) | Should a delivery app launch in Atlantic Canada? | Halifax only, and only if delivery costs stay near $9 an order. [Try the live app](https://ekene-market-entry.streamlit.app/) |
+| [City Expansion Scorecard](https://github.com/ekene-ok/city-expansion-scorecard) | Where should an online marketplace launch next? | Five cities stand out; start by recruiting local sellers, which cuts delivery times by about a week |
+| [Marketplace Supply Simulation](https://github.com/ekene-ok/marketplace-supply-simulation) | How many couriers does a new city need? | Schedule couriers for the lunch and dinner rush: 30% fewer hours, plus a 9% safety buffer |
 
+## Skills
+
+- **Analysis:** SQL, Python, R, Excel, testing and experiments, forecasting and simulation
+- **Tools:** Salesforce, Pendo, Gong, Jira, AI workflow automation
 
 ## Contact
 
